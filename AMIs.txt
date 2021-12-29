@@ -1,0 +1,5 @@
+us-east-2 
+ami-0628d50d9bd6f8ba9
+
+us-west-1
+ami-045767601352c475d
